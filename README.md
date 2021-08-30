@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/gclynch/BMI%20Lab/_apis/build/status/BMI%20Lab?branchName=master)](https://dev.azure.com/gclynch/BMI%20Lab/_build/latest?definitionId=33&branchName=master)
